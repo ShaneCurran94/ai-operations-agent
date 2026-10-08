@@ -14,3 +14,11 @@ Build a Python service that processes synthetic transactions and gradually intro
 - human review
 - evaluation
 - deployment
+
+## Running the transaction loader
+
+From the project root:
+
+```bash
+python src/load_transactions.py
+```
